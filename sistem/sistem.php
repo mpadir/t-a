@@ -1,0 +1,12 @@
+<?php
+
+include("fonksiyon.php");
+
+
+
+
+
+
+
+
+?>
